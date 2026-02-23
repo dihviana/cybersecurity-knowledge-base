@@ -1,0 +1,11 @@
+## 🤖 Plus: Potencializando Estudos com LLMs (Notebooks)
+
+Para alcançar os **95% de acertos**, utilizei um Notebook LLM como assistente de estudo. Veja como você pode usar IAs (ChatGPT, Claude, Gemini) para acelerar seu aprendizado:
+
+### Funcionalidades que utilizei:
+* **Simulador de Cenários:** "Aja como um auditor ISO 27001. Dado o cenário [X], qual controle do Anexo A seria falho?"
+* **Tradução Técnica Prática:** "Explique o conceito de SOA (Statement of Applicability) usando uma analogia com a infraestrutura de um aeroporto."
+* **Flashcards Automáticos:** Peça para a IA gerar perguntas e respostas baseadas no PDF da CertiProf para testar sua memória.
+* **Resumo de Auditoria:** "Analise este registro de log e identifique possíveis não-conformidades com a ISO 27001."
+
+> **Dica:** Use o prompt estruturado para que a IA não apenas te dê a resposta, mas explique o raciocínio por trás da norma.
