@@ -13,7 +13,7 @@ Para cada cliente, iniciamos um container isolado para garantir a segregação d
 mkdir -p ~/auditorias/projeto-exemplo
 sudo docker run -it --name audit-lab -v ~/auditorias/projeto-exemplo:/root/outputs kalilinux/kali-rolling /bin/bash
 
-2. Workflow Técnico (Fases e Prazos)
+## 2. Workflow Técnico (Fases e Prazos)
 
 Fase,Ação,Objetivo,Prazo
 01,Enumeração,Mapear subdomínios e IPs ativos.,1 Dia
